@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4021
     wikipedia: http://en.wikipedia.org/wiki/George_Bird_Grinnell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45720#Jack-the-Young-RanchmanA-Boy-s-Adventures-in-the-Rockies
 gutenberg_issued: '2014-05-22'
 gutenberg_type: Text
 identifiers:
