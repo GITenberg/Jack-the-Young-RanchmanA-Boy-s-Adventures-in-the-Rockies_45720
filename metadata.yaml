@@ -1,0 +1,38 @@
+_repo: Jack-the-Young-RanchmanA-Boy-s-Adventures-in-the-Rockies_45720
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Deming, Edwin Willard
+    alias: Eight Bears
+    birthdate: 1860
+    deathdate: 1942
+    gutenberg_agent_id: '8411'
+    url: http://www.gutenberg.org/2009/agents/8411
+covers:
+- cover_type: archival
+  image_path: 45720-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Grinnell, George Bird
+    birthdate: 1849
+    deathdate: 1938
+    gutenberg_agent_id: '4021'
+    url: http://www.gutenberg.org/2009/agents/4021
+    wikipedia: http://en.wikipedia.org/wiki/George_Bird_Grinnell
+description: ''
+gutenberg_issued: '2014-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45720'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ranch life -- Juvenile fiction'
+- !lcsh 'Rocky Mountains -- Juvenile fiction'
+- !lcsh 'Ranchers -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+title: 'Jack, the Young Ranchman: A Boy''s Adventures in the Rockies'
+url: http://www.gutenberg.org/ebooks/45720
